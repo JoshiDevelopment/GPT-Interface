@@ -3,5 +3,5 @@
 @import 'tailwindcss/utilities';
 
 body {
-    background-image: url"https://www.shutterstock.com/image-vector/marble-ink-275948639";
+  background-image: url('/src/images/background.svg');
   }

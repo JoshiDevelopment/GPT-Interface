@@ -1,9 +1,17 @@
 import React from 'react';
+import { ReactComponent as MySVG } from './images/background.svg';
 
 function App() {
   return (
     <div>
-      <h1> </h1>
+      <div className="main">
+      <div className="sub-main">  
+    </div>
+    </div>
+      
+
+
+      <MySVG />
     </div>
   );
 }
