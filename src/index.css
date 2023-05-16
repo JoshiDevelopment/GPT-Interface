@@ -3,5 +3,7 @@
 @import 'tailwindcss/utilities';
 
 body {
-  background-image: url('/src/images/background.svg');
+  background-image: url('/src/images/web-mock.png');
+  height: 100%;
+  overflow: hidden;
   }

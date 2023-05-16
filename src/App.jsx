@@ -1,5 +1,4 @@
 import React from 'react';
-import { ReactComponent as MySVG } from './images/background.svg';
 
 function App() {
   return (
@@ -9,9 +8,6 @@ function App() {
     </div>
     </div>
       
-
-
-      <MySVG />
     </div>
   );
 }
